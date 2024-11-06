@@ -1,2 +1,2 @@
 GT4500,0,0,1,0
-TORPEDO,SINGLE
+TORPEDO,SINGLE #In single mode but changes torpedo stores, ecpecting SUCCESS
